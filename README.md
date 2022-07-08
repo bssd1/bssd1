@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bernd
 - 👀 I’m interested in Modern C++
-- 🌱 I’m currently learning C/C++98
+- 🌱 I’m currently learning C/C++98 for Embarcadero C++ Builder
 - 💞️ I’m looking to collaborate on development and test for effective coding styles in C/C++
 - 📫 How to reach me: bssd@gmx.at
 
