@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bernd
 - 👀 I’m interested in Modern C++
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on development and test for effective coding styles in C/C++
 - 📫 How to reach me: bernd@bssd.at
 - Who is Kevin Braun: Skater, sponsored by Santa Cruz
