@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bernd
 - 👀 I’m interested in Modern C++
-- 🌱 I’m currently learning .net MAUI
+- 🌱 I’m currently learning Swift + Kotlin
 - 💞️ I’m looking to collaborate on development and test for effective coding styles
 - 📫 How to reach me: bernd@bssd.at
 - 🤔 Who is Kevin Braun: Skater, sponsored by Santa Cruz
